@@ -1,4 +1,4 @@
-# Hi there, I'm Jasmina! 👋  
+# Hi there, I'm Jashmina Thapa Magar! 👋  
 Computer Science student | Curious about AI, Data & Technology
 
 I am passionate about turning complex problems into elegant, functional solutions. I thrive at the intersection of **data, algorithms, and clean code building projects** that are not just functional, but genuinely useful.
@@ -14,7 +14,7 @@ I am passionate about turning complex problems into elegant, functional solution
 **Databases & Querying:** SQL, basic database concepts  
 **Other Tools:** Git, GitHub, Linux
 
-🚀 What I Build
+## 🚀 What I Build
 Projects that combine clean data with meaningful outcomes predictive models, intuitive mobile apps, or efficient algorithms.
 
 
