@@ -1,4 +1,4 @@
-# Hi there, I'm Jashmina Thapa Magar! 👋  
+# Hi there, I'm Jasmina Thapa Magar! 👋  
 Computer Science student | Curious about AI, Data & Technology
 
 I am passionate about turning complex problems into elegant, functional solutions. I thrive at the intersection of **data, algorithms, and clean code building projects** that are not just functional, but genuinely useful.
