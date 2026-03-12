@@ -1,5 +1,5 @@
 # Hi there, I'm Jasmina Thapa Magar! 👋  
-Computer Science student | Curious about AI, Data & Technology
+🎓 Computer Science with Artificial Intelligence (Hons) Student | 💡 Curious about AI, Data & Technology
 
 I am passionate about turning complex problems into elegant, functional solutions. I thrive at the intersection of **data, algorithms, and clean code building projects** that are not just functional, but genuinely useful.
 
@@ -9,7 +9,7 @@ I am passionate about turning complex problems into elegant, functional solution
 - **Detail-oriented** — I enjoy improving things step by step
 
 ## 🛠 Skills & Tools
-**Languages:** Python, Java, Kotlin  
+**Languages:** Python, Java, Kotlin, SQL, C++
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Jetpack Compose  
 **Databases & Querying:** SQL, basic database concepts  
 **Other Tools:** Git, GitHub, Linux
@@ -17,5 +17,5 @@ I am passionate about turning complex problems into elegant, functional solution
 ## 🚀 What I Build
 Projects that combine clean data with meaningful outcomes predictive models, intuitive mobile apps, or efficient algorithms.
 
-
+⭐ Always learning, always building.
 
